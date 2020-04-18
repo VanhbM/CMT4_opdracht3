@@ -1,0 +1,16 @@
+<% let mijnTags= "element-item ";
+for(var i=0; i<post.tags.length; i++) {
+
+  mijnTags += post.tags[i] + " ";
+
+} %>
+
+<article class="<%= mijnTags%>">
+  <h3><a href="/museum/<%=index %>"><%=post.title %></a></h3>
+  <% for(var t=0; t<post.tags.length; t++) { %>
+  <% } //end forloop, begint op regel 3 %>
+  <p><%=post.excerpt %></p>
+  <img src="<%=post.image %>" alt="">
+  <p><%=post.date %></p> <br>
+  <a href="/museum/<%=index %>">Show work</a>
+</article>

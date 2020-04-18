@@ -1,0 +1,85 @@
+{
+  "museum": [{
+    "title": "The Water Lily Pond",
+    "date": "1917-1919",
+    "author": "Claude Monet",
+    "tags": ["Monet", "all"],
+    "excerpt": "Monet to Picasso.",
+    "image": "/afbl/monet-picasso-omslag.jpg",
+    "content": "Water Lilies is a series of approximately 250 oil paintings by French Impressionist Claude Monet (1840–1926). The paintings depict his flower garden at his home in Giverny, and were the main focus of his artistic production during the last thirty years of his life. Many of the works were painted while Monet suffered from cataracts.[1][2]"
+  },{
+    "title": "The Enchanted Domain",
+    "date": "1953",
+    "image": "/afbl/magritte.jpg",
+    "author": "René Magritte",
+    "tags": ["Monet", "all"],
+    "excerpt": "Monet to Picasso.",
+    "content": "Paintings by Rene Magritte are well-known and iconic. He was a 20th century Belgian surrealist artist, famous for his many thought provoking images and especially for his Son of Man painting, created in 1964, showing an image of a man in an overcoat with a bowler hat, but with the face obscured by an apple. Son of Man was used in the remake of the movie The Thomas Crown Affair. Magritte trained in Brussels and his first paintings were Impressionist in style. He married and moved to Paris where he became friends with Andre Breton, and began to explore his Surrealist themes. He worked briefly in London, but returned to Brussels to open an advertising agency with his brother, as he could not support himself financially from the sale of his paintings. In the late 1960’s his works were universally admired and were used in popular culture by musicians for album covers. Rene Magritte's paintings are known to have influenced Andy Warhol and Jasper Johns."
+  },{
+    "title": "Black Streaks",
+    "date": "1974",
+    "image": "/afbl/rinnen.jpg",
+    "author": "Arnulf Rainer",
+    "tags": ["Rainer", "all"],
+    "excerpt": "Arnulf Rainer. A Tribute",
+    "content": "On the occasion of Arnulf Rainer’s 90th birthday, the Albertina Museum is presenting a selection of his works from its extensive holdings. The focus here is above all on early overpaintings and crosses, works from Rainer’s large group of Face Farces (of which the Albertina Museum is home to several particularly central and important examples), and a series of equally impressive “veiled pictures”. Five years ago, the Albertina Museum already honored Arnulf Rainer with a large retrospective in celebration of his 85th birthday, testimony to the great esteem in which this internationally renowned Austrian artist is held."
+  },{
+    "title": "West Ninth Avenue",
+    "date": "1974",
+    "image": "/afbl/sunset.jpg",
+    "author": "Stephen Shore",
+    "tags": ["AP", "all"],
+    "excerpt": "American Photography",
+    "content": "Amarillo, Texas, 2. Oktober 1974 - 27.7 x 35.3 cm Silberfarbstoffbleichverfahren - America’s vast expanses, everyday culture, social landscapes, and urban metropolises: this exhibition centers of American iconography’s post-1945 renewal. Exaggeratedly idealized landscapes were replaced by everyday motifs that had previously been considered unworthy of portrayal. Photographers took road trips and created series portraying American society in a critical light. In capturing the dynamic of big cities, the tendency was to employ a pictorial language that was spontaneous and snapshot-like. And in a contrasting approach, other works involved the staging of elaborate film-like tableaux that served to grapple with photographic reality and illusion as well as with societal developments."
+  },{
+    "title": "Venice, the Pink Cloud",
+    "date": "1909",
+    "image": "/afbl/signacp.jpg",
+    "author": "Paul Signac",
+    "tags": ["Monet", "all"],
+    "excerpt": "Monet to Picasso.",
+    "content": "Paul Signac was a French Neo-Impressionist painter born in Paris in 1863, who worked with Georges Seurat to develop the Pointillist style of painting. Signac met both Claude Monet and Georges Seurat in 1884, but moved away from the brushstrokes of Monet and Impressionism to the small dots of color used by Seurat to develop a Pointillist style. Signac spent Summers in the South of France and bought a house in St Tropez, where his artist friends Henri Matisse and Henri-Edmond Cross painted with him. Signac met and painted with Vincent van Gogh in 1887 and is known to have painted with Camille Pissarro during 1888. Pissarro was also best man at Signac’s wedding. Signac inspired the next generation of artists, in particular Henri Matisse and Andre Derain, helping to encourage the works of the Fauvists. Signac was the first person to purchase a painting from Matisse."
+  },{
+    "title": "New York City",
+    "date": "1963",
+    "image": "/afbl/nyc.jpg",
+    "author": "Lee Friedlander",
+    "tags": ["AP", "all"],
+    "excerpt": "American Photography",
+    "content": "27.9 x 35.4 cm Silbergelatinepapier - America’s vast expanses, everyday culture, social landscapes, and urban metropolises: this exhibition centers of American iconography’s post-1945 renewal. Exaggeratedly idealized landscapes were replaced by everyday motifs that had previously been considered unworthy of portrayal. Photographers took road trips and created series portraying American society in a critical light. In capturing the dynamic of big cities, the tendency was to employ a pictorial language that was spontaneous and snapshot-like. And in a contrasting approach, other works involved the staging of elaborate film-like tableaux that served to grapple with photographic reality and illusion as well as with societal developments."
+  },{
+    "title": "Barrier",
+    "date": "1974-1975",
+    "image": "/afbl/barrier.jpg",
+    "author": "Arnulf Rainer",
+    "tags": ["Rainer", "all"],
+    "excerpt": "Arnulf Rainer. A Tribute",
+    "content": "On the occasion of Arnulf Rainer’s 90th birthday, the Albertina Museum is presenting a selection of his works from its extensive holdings. The focus here is above all on early overpaintings and crosses, works from Rainer’s large group of Face Farces (of which the Albertina Museum is home to several particularly central and important examples), and a series of equally impressive “veiled pictures”. Five years ago, the Albertina Museum already honored Arnulf Rainer with a large retrospective in celebration of his 85th birthday, testimony to the great esteem in which this internationally renowned Austrian artist is held."
+  },{
+    "title": "Red Rock State Campground",
+    "date": "1982",
+    "image": "/afbl/aph-omslag.jpg",
+    "author": "Joel Sternfeld",
+    "tags": ["AP", "all"],
+    "excerpt": "American Photography",
+    "content": "Gallup, New Mexico, September 1982 - 121.9 x 148.6 cm Digitaler C-Print - America’s vast expanses, everyday culture, social landscapes, and urban metropolises: this exhibition centers of American iconography’s post-1945 renewal. Exaggeratedly idealized landscapes were replaced by everyday motifs that had previously been considered unworthy of portrayal. Photographers took road trips and created series portraying American society in a critical light. In capturing the dynamic of big cities, the tendency was to employ a pictorial language that was spontaneous and snapshot-like. And in a contrasting approach, other works involved the staging of elaborate film-like tableaux that served to grapple with photographic reality and illusion as well as with societal developments."
+  },{
+    "title": "Vertikalgestaltung",
+    "date": "1952",
+    "image": "/afbl/ar.jpg",
+    "author": "Maurane Van horenbeeck",
+    "author": "Arnulf Rainer",
+    "tags": ["Rainer", "all"],
+    "excerpt": "Arnulf Rainer. A Tribute",
+    "content": "On the occasion of Arnulf Rainer’s 90th birthday, the Albertina Museum is presenting a selection of his works from its extensive holdings. The focus here is above all on early overpaintings and crosses, works from Rainer’s large group of Face Farces (of which the Albertina Museum is home to several particularly central and important examples), and a series of equally impressive “veiled pictures”. Five years ago, the Albertina Museum already honored Arnulf Rainer with a large retrospective in celebration of his 85th birthday, testimony to the great esteem in which this internationally renowned Austrian artist is held."
+  },{
+    "title": "Woman in a green hat",
+    "date": "1947",
+    "image": "/afbl/picasso.jpg",
+    "author": "Pablo Picasso ",
+    "tags": ["Monet", "all"],
+    "excerpt": "Monet to Picasso.",
+    "content": "In 1935, Picasso met Dora Maar, a young Surrealist photographer, during a tme of personal turmoil. The artist has just divorced his wife Olga, his mistress Marie-Thérèse had just given birth to his daughter, Maya, and he was struggling with his artistic focus. Maar served as a key figure in the artist’s life as his companion, model, and mistress both before and during World War II. Often in Picasso’s artwork, Maar’s face is highly distorted. She is also often shown weeping, perhaps the result of their tumultuous relationship. Woman with Green Hat is an anomaly within that dynamic. The sculptural form of the head pays homage to the artist’s interest in the art of non-Western cultures, while Maar’s wistful expression in her eyes, and the combination of grayish blue and pink of her complexion suggest Picasso’s former Rose Period (1904–06)."
+  }
+  ]
+}

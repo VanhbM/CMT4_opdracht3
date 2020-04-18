@@ -1,0 +1,29 @@
+<%- include("header"); -%>
+
+  <main>
+    <div class="basis">
+      <div class="button-group filter-button-group">
+        <h3>Current Exhibitions</h3>
+        <button class="button is-checked" data-filter=".all">All</button>
+        <button class="button" data-filter=".Monet">Monet to picasso</button>
+        <button class="button" data-filter=".Rainer">Arnulf Rainer. A Tribute</button>
+        <button class="button" data-filter=".AP">American Photography</button>
+      </div>
+      <div class="art">
+        <% for (let i=0; i<posts.length; i++) { %>
+          <section>
+            <%- include('tentoonstellingPagina', {post: posts[i], index: i}); -%>
+          </section>
+        <% } // close forloop, loop begint regel 3 %>
+      </div>
+
+
+    </div>
+
+
+
+
+  </main>
+
+
+<%- include("footer"); -%>
