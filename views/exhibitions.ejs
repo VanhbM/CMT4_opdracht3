@@ -8,13 +8,15 @@
         <button class="button" data-filter=".Monet">Monet to picasso</button>
         <button class="button" data-filter=".Rainer">Arnulf Rainer. A Tribute</button>
         <button class="button" data-filter=".AP">American Photography</button>
+        <p><input type="text" class="search" placeholder="Search for work.." size="5" ></p>
       </div>
+
       <div class="art">
         <% for (let i=0; i<posts.length; i++) { %>
           <section>
             <%- include('tentoonstellingPagina', {post: posts[i], index: i}); -%>
           </section>
-        <% } // close forloop, loop begint regel 3 %>
+        <% } // close forloop %>
       </div>
 
 
@@ -25,5 +27,6 @@
 
   </main>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
 <%- include("footer"); -%>

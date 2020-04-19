@@ -38,7 +38,7 @@ function onButtonGroupClick( event ) {
 // init Isotope filter
 let filtering = new Isotope( '.art', {
   itemSelector: '.element-item',
-  layoutMode: 'vertical',
+  layoutMode: 'fitRows',
 });
 
 // bind filter button click
@@ -57,4 +57,41 @@ filtersElem.addEventListener("click", function( event ) {
 let buttonGroups = document.querySelectorAll('.button-group');
 for ( var i=0; i < buttonGroups.length; i++ ) {
   buttonGroups[i].addEventListener( 'click', onButtonGroupClick );
+}
+
+
+
+
+// zoekfunctie werkt jammer genoeg niet but I tried ...
+// quick search regex
+var qsRegex;
+// init Isotope
+var $art = $('.art').isotope({
+	itemSelector: '.element-item',
+	layoutMode: 'fitRows',
+	filter: function() {
+		return qsRegex ? $(this).text().match( qsRegex ) : true;
+	},
+	getSortData: {
+		category: '[data-category]',
+	}
+});
+
+var $quicksearch = $('.search').keyup( debounce( function() {
+  qsRegex = new RegExp( $quicksearch.val(), 'gi' );
+  $art.isotope();
+}, 200 ) );
+
+function debounce( fn, threshold ) {
+  var timeout;
+  threshold = threshold || 100;
+  return function debounced() {
+    clearTimeout( timeout );
+    var args = arguments;
+    var _this = this;
+    function delayed() {
+      fn.apply( _this, args );
+    }
+    timeout = setTimeout( delayed, threshold );
+  };
 }
